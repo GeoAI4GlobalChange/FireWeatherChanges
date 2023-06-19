@@ -1,0 +1,9 @@
+# Observational datasets used in this study:  
+gridMET: http://www.climatologylab.org/gridmet.html  
+Fire Program Analysis fire occurrence database: https://www.fs.usda.gov/rds/archive/Catalog/RDS-2013-0009.5  
+MTBS: https://www.mtbs.gov/direct-download  
+MODIS: https://doi.org/10.5067/MODIS/MYD17A3HGF.061  
+GPWv4: https://sedac.ciesin.columbia.edu/data/collection/gpw-v4  
+# Model simulations  
+CMIP6 and DAMIP: https://esgf-node.llnl.gov/projects/cmip6/  
+
